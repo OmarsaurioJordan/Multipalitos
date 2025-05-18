@@ -1,0 +1,10 @@
+/.godot
+/export_sprites
+/WebExport
+!/datafiles/*.zip
+*.zip
+*.rar
+*.import
+*.tmp
+*.log
+*.exe
